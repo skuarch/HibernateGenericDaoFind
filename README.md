@@ -1,0 +1,4 @@
+HibernateGenericDaoFind
+=======================
+
+Hibernate
